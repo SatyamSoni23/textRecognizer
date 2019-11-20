@@ -3,7 +3,7 @@ This project is aimed at developing software that provides the features image fi
 
 This software mainly used tesseract library to recognize text from image and use file handling to make a text file. For conversion of a text file to image file I use PIL (Python Imaging Library) and for converting text to the audio file I use gTTS (Google-Text-to-Speech) library.
 
-Library Used: Tesseract
-              gTTS (google-Text-To-Speech)
-              pyQt5
+Library Used: Tesseract,
+              gTTS (google-Text-To-Speech),
+              pyQt5,
               pillow
